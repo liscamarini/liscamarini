@@ -10,6 +10,8 @@ Aprendendo a cada dia mais sobre o **Javascript** e me apaixando cada vez mais p
 👩‍🎓 Estudando **React**,  **React Native** e universo de **Segurança da Informação**
 
  💖 Amo Filmes, séries, games e cachorros!
+ 
+ <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="laiscama"><a class="LI-simple-link" href='https://br.linkedin.com/in/laiscama?trk=profile-badge'>Laís Camarini Moura</a></div>
 
 
 
